@@ -7,7 +7,9 @@ authors = [
     { name = "Shishir-Kc", email = "shishir.khatri.kc@gmail.com" }
 ]
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "datasets>=5.0.1",
+]
 
 [project.scripts]
 ember = "ember:main"
