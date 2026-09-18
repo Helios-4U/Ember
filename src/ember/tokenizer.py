@@ -90,7 +90,7 @@ class Tokenizer:
         """ 
         This method wil train the tokenizer .
         It will crash if the trainning data is huge , use small data for Learning purpose only . 
-        for effective trainning ther is another training function.
+        for effective trainning there is another training function.
         """
         for i in range(self.NUM_MERGES): 
          stats = self._get_stats(ids)
