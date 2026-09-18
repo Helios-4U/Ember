@@ -1,7 +1,7 @@
 [project]
 name = "ember"
-version = "0.1.0"
-description = "Add your description here"
+version = "1.0.0"
+description = "A simple BPE based Tokenizer"
 readme = "README.md"
 authors = [
     { name = "Shishir-Kc", email = "shishir.khatri.kc@gmail.com" }
